@@ -6,7 +6,7 @@ XOANI is an open framework designed to provide a flexible and extensible platfor
 
 ## 🚧 Project Status 🚧
 
-XOANI is currently under active development, with ongoing assessments of its software architecture based on an existing prototype Python module. These evaluations aim to maximize the project's sustainability upon its official launch, which is targeted for the fourth quarter of 2024.
+XOANI is currently under active development, with ongoing assessments of its software architecture based on an existing prototype Python module and feedback on project concepts. These evaluations are designed to maximize the project's simplicity, robustness, and sustainability ahead of its official launch, targeted for the fourth quarter of 2024.
 
 ## Contributions and Collaboration
 
@@ -14,11 +14,12 @@ We invite contributions and collaborations from researchers and developers in th
 
 ## Relevant Projects
 
-For more projects related to XOANI, please visit repositories below:
-- [CAMRI](https://github.com/camriatunc)
-- [BrkRaw](https://github.com/brkraw)
+For more projects related to XOANI, please explore the following site ot repositories:
+- [CAMRI homepage](https://camri.org)
+- [CAMRI github](https://github.com/camriatunc) : Center for Animal MRI (CAMRI) at University of North Carolina at Chapel Hill
+- [BrkRaw github](https://github.com/brkraw) : Preclinical MRI conversion tools with BIDS organization support.
 
 ## Contact
 
-XOANI is maintained and founded by Center for Animal MRI (CAMRI) at University of North Carolina at Chapel Hill. For more information, inquiries, or collaboration opportunities, please contact Maintainer through email (shlee@unc.edu) or our GitHub profiles linked above.
+XOANI is maintained and founded by the Center for Animal MRI (CAMRI) at the University of North Carolina at Chapel Hill. For more information, inquiries, or collaboration opportunities, please contact the maintainer via [email](mailto:shlee@unc.edu?subject[GitHub]%20Expression%20of%20Interest\:%20Collaboration%20on%20XOANI%20Project), or visit our GitHub profiles linked above.
 
